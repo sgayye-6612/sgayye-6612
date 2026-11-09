@@ -74,21 +74,7 @@ I'm currently exploring **Generative AI, Agentic AI, scalable AI architectures, 
 </p>
 
 ## 🚀 Featured Projects
-
-### 🐕 Scooby — Personal AI Assistant
-AI-powered personal assistant built with Python, FastAPI, LangChain, LangGraph, PostgreSQL, Ollama, RAG, embeddings, and tool calling.
-
-### 🚗 Vehicle Recovery & Claims Platform
-Multi-tenant vehicle recovery and claims platform with FastAPI, PostgreSQL, React, JWT authentication, partner eligibility workflows, and tenant-based access control.
-
-### 💼 HireFlow
-Multi-tenant hiring and job-management application built with FastAPI, Angular, PostgreSQL, AWS, authentication, and role-based workflows.
-
-### 🤖 AI Meeting Assistant
-AI-powered application focused on meeting processing and intelligent assistance using modern AI technologies.
-
-### 🛒 E-Commerce Management System
-Full-stack e-commerce application with backend APIs, database integration, and management workflows.
+PLEASE CHECK OUT MY REPO: https://github.com/sgayye-6612?tab=repositories
 
 ## 🏆 Achievements & Certifications
 
