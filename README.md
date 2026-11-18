@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I'm **Sahithi Gayye**, an AI-Focused Full Stack Developer with 2.5+ years of experience building backend services, full-stack applications, and AI-powered solutions.
+Hi, I'm **Sahithi Gayye**, an AI-Focused Full Stack Developer with 1.5+ years of experience building backend services, full-stack applications, and AI-powered solutions.
 
 I specialize in developing applications using **Python, FastAPI, React, TypeScript, PostgreSQL, and AWS**, with a strong focus on backend engineering, REST APIs, database integration, and cloud deployment.
 
@@ -14,7 +14,6 @@ I'm currently exploring **Generative AI, Agentic AI, scalable AI architectures, 
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahithi-gayye-8604b8259/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sahithigayye.lovable.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sgayye@gmail.com)
 
 
